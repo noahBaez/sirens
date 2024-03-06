@@ -1,0 +1,36 @@
+*{
+	margin: 2;
+	padding: 2;
+	font-family: arial;
+
+}
+body{
+	 
+	 background: yellow;
+}
+
+h3,ul,p { text-align: center;
+size: 12px;
+}
+
+.imagen {
+	position:absolute;
+	top: 0;
+left: 450px;
+}
+#siren{
+    margin-top: 80px;
+}
+#frescura{
+    margin-top: 135px;
+}
+
+#servs{color: #1E21AA;
+font-size: 30px;
+}
+.go {
+    display: block;
+  width: 35%;
+  margin: auto;
+}
+
